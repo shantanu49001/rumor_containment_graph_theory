@@ -90,7 +90,6 @@ In this project, we extend the investigation to **peer-to-peer (P2P) models** by
 
 ## 📦 Dependencies
 
-- **LaTeX** (Beamer for presentation slides)
 - **Python** or **MATLAB** for running simulation models
 - **Graph Visualization Libraries** (Optional for generating network graphs)
 
