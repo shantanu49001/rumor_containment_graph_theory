@@ -26,15 +26,19 @@ This project investigates how rumors can be controlled in peer-to-peer message-s
 ### Independent Cascade (IC) Model
 In the IC model, each node (person) influences its neighbors with a random probability that, if exceeded, causes the neighbor to adopt the information (either true or false).
 
-![IC Model](Images/IC.png)
+![IC Model](https://github.com/shantanu49001/rumor_containment_graph_theory/blob/main/IC.png)
 
 ### Linear Threshold (LT) Model
 In the LT model, nodes are influenced based on cumulative edge weights from their neighbors. If the sum of the incoming weights exceeds a node's threshold, the node adopts the information.
 
-![LT Model](Images/LT.png)
+![LT Model](https://github.com/shantanu49001/rumor_containment_graph_theory/blob/main/LT.png)
 
 ## Extension to Peer-to-Peer Models
 We extend the research by analyzing the shift from a centralized broadcast model to a decentralized peer-to-peer model. This is done by simulating rumor spread in various network topologies.
+![LT Model](https://github.com/shantanu49001/rumor_containment_graph_theory/blob/main/algo.png)
+![LT Model](https://github.com/shantanu49001/rumor_containment_graph_theory/blob/main/sim1.png)
+![LT Model](https://github.com/shantanu49001/rumor_containment_graph_theory/blob/main/sim2.png)
+![LT Model](https://github.com/shantanu49001/rumor_containment_graph_theory/blob/main/sim3.png)
 
 ## How to Run the Project
 1. Clone this repository:
